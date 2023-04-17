@@ -160,7 +160,7 @@ podman image pull {{ registry-host }}/{{ os-images-path }}/alpine:3.14
 podman system df
 ````
 
-- Сценарий "Как ...?"
+- Сценарий "Как мне запустить контейнер в интерактивном режиме?"
 ```shell
 podman container run hello
 
